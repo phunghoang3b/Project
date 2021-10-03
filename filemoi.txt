@@ -1,3 +1,7 @@
 hello git
 xin chào
+
 chao moi nguoi
+
+tao file may 2
+
